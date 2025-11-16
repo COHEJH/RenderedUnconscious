@@ -3,7 +3,7 @@
 >
 > <em>Lao Tzu, Chinese philospher</em>
 
-"Build a 3D engine!" they said. "It'll be fun!" they said. 4 hours of neurosis later, I present the world with this abomination.
+"Build a 3D engine!" they said. "It'll be fun!" they said. 4 hours of neurosis later, I present the world with this abomination (yet another ray tracer the world doesn't particularly want or even need).
 
 Written in Python for maximum ~~ease of understanding~~, sorry - pain. What's worse is that I found it kind of fun. I must complete the journey with a rasteriser soon.
 
